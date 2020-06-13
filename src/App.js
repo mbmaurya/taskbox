@@ -5,10 +5,7 @@ import "./App.css";
 // import Task from "./components/Task";
 
 function App() {
-  return (
-    //
-    Hello
-  );
+  return <h1>Hello</h1>;
 }
 
 export default App;
